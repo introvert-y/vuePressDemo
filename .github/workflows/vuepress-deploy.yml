@@ -14,4 +14,4 @@ jobs:
         TARGET_REPO: introvert-y/vuePressDemo
         TARGET_BRANCH: master
         BUILD_SCRIPT: yarn && yarn build
-        BUILD_DIR: dist
+        BUILD_DIR: docs/.vuepress/dist
